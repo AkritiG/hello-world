@@ -1,2 +1,3 @@
 # hello-world
-hello world repository
+
+Git trial 101.
